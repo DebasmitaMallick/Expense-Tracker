@@ -1,7 +1,7 @@
 # Expense tracker App
 
 ## About the project
-This project is a React-based expense tracker application that allows users to enter and view their expenses. It includes an expense entry form with buttons to add or remove expenses, and stores data locally. The application is designed to be responsive and includes testing to ensure functionality. The expense tracker application using ReactJS is developed using best practices for code quality and maintainability. 
+This project is a ReactJS-based expense tracker application that allows users to enter and view their expenses. It includes an expense entry form with buttons to add or remove expenses, and stores data locally. The application using ReactJS is developed using best practices for code quality and maintainability. 
 
 ## Installation 
 ### To get started with the project, follow these steps:
