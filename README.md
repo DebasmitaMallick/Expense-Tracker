@@ -9,6 +9,10 @@ The second section of the application will display a list of previously entered 
 
 The expense tracker application using ReactJS is developed using best practices for code quality and maintainability. 
 
+## Live project link
+
+https://main--expense-tracker-debz.netlify.app/
+
 ## Preview
 
 ![image](https://user-images.githubusercontent.com/67649413/226474513-a446cd5f-629d-4db3-b40f-193de7fa5fa1.png)
