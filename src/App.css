@@ -28,7 +28,8 @@
 
 .error {
   color: #eb5656;
-  margin-left: -4rem;
+  margin-top: 0 !important;
+  font-size: 14px;
 }
 
 .button {
@@ -53,7 +54,8 @@
 
 .balanceForm input {
   padding: 11px 15px;
-  border: 1px solid #d4d4d5;
+  border-style: none;
+  border: 1px solid;
   border-radius: 3px;
   margin-bottom: 5px;
   outline: none;

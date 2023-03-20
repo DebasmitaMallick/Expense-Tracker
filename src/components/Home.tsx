@@ -84,7 +84,7 @@ export const Home = () => {
                     type='number' 
                     value={amount}
                     onChange={onChangeHandler}
-                    style={{borderColor: error===true ? '#eb5656' : 'inherit'}}
+                    style={{borderColor: error===true ? '#eb5656' : '#9c9c9c96'}}
                 /> <br />
                 {error && <p className="error">This is a required field</p>}
                 <button type="submit" className="button" onClick={handleAdd}>Add</button>
