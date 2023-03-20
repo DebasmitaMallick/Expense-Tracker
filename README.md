@@ -16,5 +16,5 @@ This project is a ReactJS-based expense tracker application using Typescript, th
 https://main--expense-tracker-debz.netlify.app/
 
 ## Preview
-
+https://youtu.be/xpV7um9LXnQ
 ![image](https://user-images.githubusercontent.com/67649413/226474513-a446cd5f-629d-4db3-b40f-193de7fa5fa1.png)
